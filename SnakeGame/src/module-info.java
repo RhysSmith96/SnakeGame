@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Smith
+ *
+ */
+module snakeGame {
+}
